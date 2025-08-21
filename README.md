@@ -81,12 +81,12 @@ The app uses **GetX** for state management due to its simplicity and reactivity.
 
 ## Mobile Screenshots
 
-- **Main Canvas (Phone)**: Shows the drawing canvas and toolbar on a mobile device.
-- **Brush Settings (Phone)**: Displays the sliders and color picker in portrait mode.
-- **Share Action (Phone)**: Captures the share dialog after tapping the share button.
+| Main Canvas (Phone) | Brush Settings (Phone) | About Screen (Phone) |
+|---------------------|-----------------------|----------------------|
+| ![Mobile Canvas](https://github.com/Adel09/artify/blob/main/screenshots/mob1.png) | ![Brush Settings](https://github.com/Adel09/artify/blob/main/screenshots/mob2.png) | ![About Screen](https://github.com/Adel09/artify/blob/main/screenshots/mob3.png) |
 
 ## Tablet Screenshots
 
-- **Main Canvas (Tablet)**: Displays a wider canvas and toolbar layout optimized for tablets.
-- **Brush Settings (Tablet)**: Shows the expanded toolbar with sliders and color picker in landscape mode.
-- **Share Action (Tablet)**: Captures the share dialog on a larger screen.
+| Main Canvas (Tablet) | Brush Settings (Tablet) | About Screen (Tablet) |
+|----------------------|------------------------|-----------------------|
+| ![Tablet Canvas](https://github.com/Adel09/artify/blob/main/screenshots/tab1.png) | ![Brush Settings](https://github.com/Adel09/artify/blob/main/screenshots/tab2.png) | ![Share Action](
