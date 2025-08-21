@@ -14,6 +14,9 @@ A simple Flutter application that allows users to draw on a canvas, adjust brush
 - **Clear Canvas**: Option to clear all strokes.
 - **Responsive Layout**: Adapts to tablets (wider toolbar) and phones.
 
+## Demo Video
+- Loom (https://www.loom.com/share/ea746274c2a3452da89cf84c1e42a80c?sid=01400dee-c6de-401e-9885-15adb3d18836)
+
 ## Project Structure
 
 The app is organized into a modular structure for better maintainability:
