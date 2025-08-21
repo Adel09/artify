@@ -1,4 +1,4 @@
-# Drawing App
+# Artify App
 
 A simple Flutter application that allows users to draw on a canvas, adjust brush settings, and share their drawings. The app features a responsive UI, freehand drawing with a custom painter, and a toolbar for adjusting brush size, color, and opacity.
 
@@ -6,8 +6,8 @@ A simple Flutter application that allows users to draw on a canvas, adjust brush
 
 - **Drawing Canvas**: Freehand drawing using a `CustomPainter`, with support for separate strokes (each stroke is independent and doesn't connect to others).
 - **Brush Settings**:
-  - **Size**: Adjustable via a slider (1 to 20 pixels).
-  - **Color**: Basic color picker with 5 colors (black, red, blue, green, yellow).
+  - **Size**: Adjustable via a slider (1 to 50 pixels).
+  - **Color**: Basic color picker with multiple colors.
   - **Opacity**: Adjustable via a slider (0% to 100%, in 10% increments).
 - **Brush Preview**: Live preview of the current brush color, size, and opacity.
 - **Sharing**: Capture the canvas as a PNG image and share it via the device's native share dialog.
